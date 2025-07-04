@@ -131,7 +131,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(../POWER\ OF\ EVENT\ 3/images/BG2.png) no-repeat;
+    background: url(./images/BG2.png) no-repeat;
     background-size: cover;
     background-position: inherit;
     text-align: center;
